@@ -44,8 +44,11 @@ scrum workflow
 ## Certificates 🏆
 ## Samples 🔬
 ## 1. Mabco Website
-[[View Test Plan](./test-report.pdf)]
-[[View Test Plan]([./test-report.pdf](https://docs.google.com/spreadsheets/d/1jj30ZTW-j7f1KrTfpP7ZE6fMzJvSlPAu/edit?usp=sharing&ouid=110810226097015095019&rtpof=true&sd=true))]
+[[View Test Plan](https://docs.google.com/document/d/1UxxfC2HGWFO5u4Wv66F9bTtLkSH2HNWZ/edit?usp=sharing&ouid=110810226097015095019&rtpof=true&sd=true)]
+[[View Test Cases]([./test-report.pdf](https://docs.google.com/spreadsheets/d/1jj30ZTW-j7f1KrTfpP7ZE6fMzJvSlPAu/edit?usp=sharing&ouid=110810226097015095019&rtpof=true&sd=true))]
+[[View Bug Report]([./test-report.pdf](https://docs.google.com/spreadsheets/d/1uPZk0BxPhInjqwHo5VPCfI4Ky9RmdfZd/edit?usp=sharing&ouid=110810226097015095019&rtpof=true&sd=true))]
+
+
 
 
 ## 
