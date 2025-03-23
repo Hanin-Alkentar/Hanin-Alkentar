@@ -18,6 +18,7 @@ Git - for better work in development team and controlling software versions
 GitHub - supporting Git and preparing my repositories
 Xampp - practicing SQL
 Postman - API testing
+CI/CD: Jenkins, GitHub Actions
 Cypress
 TestRail
 Visual Studio Code - practicing HTML and CSS
@@ -44,5 +45,8 @@ scrum workflow
 ## Samples 🔬
 ## 1. Mabco Website
 [[View Test Plan](./test-report.pdf)]
+[[View Test Plan]([./test-report.pdf](https://docs.google.com/spreadsheets/d/1jj30ZTW-j7f1KrTfpP7ZE6fMzJvSlPAu/edit?usp=sharing&ouid=110810226097015095019&rtpof=true&sd=true))]
+
+
 ## 
 
